@@ -1,0 +1,17 @@
+QUE SIGNIFICA ASYNC?
+Indica que el mètode és sincronitzable amb mètodes que s'executarán de forma asíncrona.-->s'utilitza AWAIT
+
+DIFERÈNCIA ENTRE ASINCRONIA I PARAL.LELISME?
+Paral.lelisme són diversos processos que s'executen de manera simultània i asincronia no té per qué ser executat
+paral.lel a un altre. (execució simultània de diverses accions)
+
+QUE VOL DIR AWAIT?
+Permet marcar un punt de callback
+
+-----------
+
+QUÈ ÉS UN PROCÈS?
+Seqüència d'instruccions que implementa un determinat algoritme
+
+QUÈ ÉS UN THREAD (FIL)?
+Entitat que dins un procés permet executar el codi
