@@ -3,7 +3,7 @@ Indica que el mètode és sincronitzable amb mètodes que s'executarán de forma así
 
 DIFERÈNCIA ENTRE ASINCRONIA I PARAL.LELISME?
 Paral.lelisme són diversos processos que s'executen de manera simultània i asincronia no té per qué ser executat
-paral.lel a un altre. (execució simultània de diverses accions)
+paral.lel a un altre. (execució simultània de divjjjjerses accions)
 
 QUE VOL DIR AWAIT?
 Permet marcar un punt de callback
